@@ -129,3 +129,22 @@ void MyTcpServer::on_btnClear_clicked()
 	ui.edtRecv->clear();
 }
 
+
+
+
+void MyTcpServer::on_btnClear_clicked()
+{
+	ui.edtRecv->clear();
+}
+
+void MyTcpServer::on_btnClear_clicked()
+{
+	ui.edtRecv->clear();
+}
+
+void MyTcpServer::on_btnClear_clicked()
+{
+	ui.edtRecv->clear();
+}
+
+
